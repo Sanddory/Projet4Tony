@@ -1,0 +1,42 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    background-color: #0065FC;
+}
+
+:root {
+    --main-color: #0065FC;
+    --main-bg-color: #F2F2F2;
+    --filter-bg-color: #DEEBFF;
+}
+
+.main-container {
+    width: 100%;
+    max-width: 1440px;
+    box-sizing: border-box;
+}
+
+
+/* Small devices (phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+header {
+        display: flex;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        background-color: aquamarine;
+            
+    }
+        
+   
+    
+    
+    
+    
+    
+    }
